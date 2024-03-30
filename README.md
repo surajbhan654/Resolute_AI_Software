@@ -6,6 +6,7 @@ Feature :
 3. Toastify message
 4. Authentication(firebase) with email id and password
 5. if the user clicks on the timestamp then the video will play on that timestamp
+6. Avtar Profile (latter of first name and last name) 
 
 # Log in
 ![image](https://github.com/surajbhan654/Resolute_AI_Software/assets/58772971/ec4b8283-1ed2-417d-b7a6-14a7d1ea4b66)
